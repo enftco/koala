@@ -7,8 +7,8 @@ module.exports = {
     },
     colors: {
       "dark": "#060707",
+      "white": "#f0f0f0",
       "primary": "#02C173",
-      "secondary": "#f0f0f0",
     },
     extend: {
       keyframes: {
